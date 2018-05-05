@@ -35,6 +35,17 @@
 			background-repeat:no-repeat;
 			
 		}
+		.alumini{
+			background:white;
+			border:1px solid white;
+			border-radius:50%;
+			height:200px;
+			width:200px;
+			margin:10px 50px 10px 50px;
+		}
+		.alumini img{
+			margin-top:45px;
+		}
 	</style>
 </div>
 		<div class="swiper-bg-wrap swiper-style-1">
@@ -337,6 +348,50 @@
 			</div>
 		</div>
 	</section>
+
+		<section class="section-lg text-center novi-background bg-cover bg-gray-light" id="services" data-type="anchor"><h2>Our
+			Alumni Work for</h2>
+			<div class="range range-xs-center spacing-50 club">
+				
+					<a><div class="cell-sm-4 cell-md-3 alumini">
+						<div>
+							<img src="Alumni-Work/800px-Accenture.svg.png" alt="" height="80" width="120">
+						</div>
+					</div></a>
+					<a><div class="cell-sm-4 cell-md-3 alumini">
+						<div>
+							<img src="Alumni-Work/1280px-Tata_Consultancy_Services_Logo.svg.png" alt="" height="90" width="130">
+						</div>
+					</div></a>
+					<a><div class="cell-sm-4 cell-md-3 alumini">
+						<div>
+							<img src="Alumni-Work/cg_logo.jpg" alt="" height="60" width="150" style="margin-top:60px;">
+						</div>
+					</div></a>
+					<a><div class="cell-sm-4 cell-md-3 alumini">
+						<div>
+							<img src="Alumni-Work/download.png" alt="" height="60" width="130" style="margin-top:60px;">
+						</div>
+					</div></a>
+					<a><div class="cell-sm-4 cell-md-3 alumini">
+						<div>
+							<img src="Alumni-Work/infostretch-logo.jpg" alt="" height="70" width="140" style="margin-top:60px;">
+						</div>
+					</div></a>
+					
+					<a><div class="cell-sm-4 cell-md-3 alumini">
+						<div>
+							<img src="Alumni-Work/infosys-logo-JPEG.jpg" alt="" height="50" width="120" style="margin-top:80px;">
+						</div>
+					</div></a>
+					<a><div class="cell-sm-4 cell-md-3 alumini">
+						<div>
+							<img src="Alumni-Work/logo-Zauba.png" alt="" height="100" width="150" >
+						</div>
+					</div></a>
+			</div>
+		</section>
+
 	
 	<section class="section-lg text-center novi-background bg-cover bg-gray-light" id="events" data-type="anchor"><h2>Upcoming Events</h2>
 			<p class="subtitle-variant-2">Register yourself</p>
